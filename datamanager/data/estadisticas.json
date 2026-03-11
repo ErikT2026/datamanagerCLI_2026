@@ -1,0 +1,12 @@
+{
+  "total_estudiantes": 10,
+  "promedio_general": 7.9,
+  "edad_maxima": 24,
+  "edad_minima": 20,
+  "conteo_por_carrera": {
+    "Estadística": 2,
+    "Física": 3,
+    "Ingeniería": 3,
+    "Matemática": 2
+  }
+}
